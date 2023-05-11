@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhadahsan&label=Profile%20views&color=0e75b6&style=flat" alt="ashhadahsan" /> </p>
 
-- 🔭 I’m currently working on [generateimage.ai](https://www.generateimage.ai), [imagescribre.net](https://imagescribe.net)
+- 🔭 I’m currently working on [generateimage.ai](https://www.generateimage.ai), [imagescribre.net](https://www.imagescribe.net/)
 
 
 - 🌱 I’m currently learning **Web3, Solidity**
