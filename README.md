@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashhad</h1>
-<h3 align="center">A passionate Data Scientist,ML Engineer & Full Stack Dev</h3>
+<h3 align="center">A passionate Data Scientist,ML Engineer & Backend Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhadahsan&label=Profile%20views&color=0e75b6&style=flat" alt="ashhadahsan" /> </p>
 
