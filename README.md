@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhadahsan&label=Profile%20views&color=0e75b6&style=flat" alt="ashhadahsan" /> </p>
 
-- 🔭 I’m currently working on [generateimage.ai](https://www.generateimage.ai), [imagescribre.net](https://www.imagescribe.net/)
+- 🔭 I’m currently working on Segment Anything Image Segmentation Model
 
 
-- 🌱 I’m currently learning **Web3, Solidity**
 
-- 💬 Ask me about **Python, JavaScript, ML, Docker, Data Analysis**
+
+- 💬 Ask me about **Python, JavaScript, Generative AI, ML, Docker, Data Analysis**
 
 - 📫 How to reach me **ashhadahsan@gmail.com**
 
