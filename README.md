@@ -7,7 +7,7 @@
 
 **6+ Years of Experience** in AI/ML Engineering, specializing in **Agentic AI, LLMs, and Production ML Systems**
 
-I build intelligent systems that solve real-world problems—from agentic workflows to computer vision solutions. Currently pushing the boundaries of image segmentation with the **Segment Anything Model (SAM)**.
+I build intelligent systems that solve real-world problems—from agentic workflows to computer vision solutions. Currently pushing the boundaries of Agentic AI, I have built scalable agents for enterprises, working on real-world projects that have a social impact.
 
 ### 💡 Core Expertise
 - **Agentic AI & LLMs**: LangGraph agents, RAG systems, multi-agent orchestration
@@ -36,7 +36,7 @@ High-accuracy speech recognition deployment on Hugging Face. Features word-level
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashhadahsan&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ashhadahsan&theme=dark&hide_border=true)
 
 ![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=ashhadahsan&theme=react-dark&hide_border=true&area=true)
 
